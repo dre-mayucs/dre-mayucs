@@ -1,16 +1,18 @@
-### Hi there 👋
+# どうも！キモオタです!  
+学生キモオタプログラマです('▽')  
+プログラミングという手段が好きでプログラミングが人生になっている人  
+化学も好きですが専門分野ではないので正確性は求めないでください(> <);  
+<img src="https://grass-graph.moshimo.works/images/mayu-cs.png">  
 
-<!--
-**mayu-cs/mayu-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## HP
+HPリンクはこちらです！  
+ぜひぜひ見ていってくださいね(まぁリンク置いてあるだけですが...)  
+[わんころメソッド();公式HP](http://mayu-cs.xyz)
 
-Here are some ideas to get you started:
+## Discordサーバーあります！  
+Discordサーバー内では雑談やプログラミング、化学や数学などの学術チャンネルもあります！  
+おそらくそのようなものが好きな人しかいないのでお話は合うのでしょうか?  
+質問チャンネルでプログラミングの質問もできます！  
+[Discord鯖](https://discord.com/invite/TZVTBkk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ⓒ2020 わんころメソッド();
