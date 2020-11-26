@@ -1,4 +1,4 @@
-![言語](https://img.shields.io/badge/Language-C%23%2CC%2B%2B-blue)  
+![言語](https://img.shields.io/badge/DevLanguage-C%23%2CC%2B%2B-blue)  
 # どうも！キモオタです!  
 学生キモオタプログラマです('▽')  
 プログラミングという手段が好きでプログラミングが人生になっている人  
