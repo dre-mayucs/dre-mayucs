@@ -12,7 +12,13 @@ HPリンクはこちらです！
 ## Qiita
 Qiitaでプログラミングに関する記事も書いてます！  
 良かったら見ていってくださいね！  
-[Qiita(まゆC#)](https://qiita.com/mayu___cs)
+[Qiita(まゆC#)](https://qiita.com/mayu___cs)  
+
+## Twitter
+僕の人生  
+質問あればTwitterでしていただいても全然大丈夫です！  
+ツイ廃とかしたオタクなので投稿頻度はめっちゃ早いです()  
+[Twitter(まゆC#)](https://twitter.com/mayu___cs)
 
 ## Discordサーバーあります！  
 Discordサーバー内では雑談やプログラミング、化学や数学などの学術チャンネルもあります！  
