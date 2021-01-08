@@ -18,7 +18,9 @@ Qiitaでプログラミングに関する記事も書いてます！
 僕の人生  
 質問あればTwitterでしていただいても全然大丈夫です！  
 ツイ廃とかしたオタクなので投稿頻度はめっちゃ早いです()  
-[Twitter(まゆC#)](https://twitter.com/mayu___cs)
+サブ垢はそんなことないですが...w  
+[Twitter(まゆC#)](https://twitter.com/mayu___cs)  
+[Twitter(まゆC#サブ)](https://twitter.com/mayu___cs_2)
 
 ## Discordサーバーあります！  
 Discordサーバー内では雑談やプログラミング、化学や数学などの学術チャンネルもあります！  
@@ -26,4 +28,4 @@ Discordサーバー内では雑談やプログラミング、化学や数学な�
 質問チャンネルでプログラミングの質問もできます！  
 [Discord鯖](https://discord.com/invite/TZVTBkk)
 
-Ⓒ2020 わんころメソッド();
+Ⓒ2021 わんころメソッド();
