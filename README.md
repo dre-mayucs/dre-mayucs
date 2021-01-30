@@ -22,10 +22,13 @@ Qiitaでプログラミングに関する記事も書いてます！
 [Twitter(まゆC#)](https://twitter.com/mayu___cs)  
 [Twitter(まゆC#サブ)](https://twitter.com/mayu___cs_2)
 
-## Discordサーバーあります！  
+## Discord server 
 Discordサーバー内では雑談やプログラミング、化学や数学などの学術チャンネルもあります！  
 おそらくそのようなものが好きな人しかいないのでお話は合うのではないでしょうか?  
 質問チャンネルでプログラミングの質問もできます！  
-[Discord鯖](https://discord.com/invite/TZVTBkk)
+[Discord鯖](https://discord.com/invite/TZVTBkk)  
 
+## Status  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayu-cs&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayu-cs&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
 Ⓒ2021 わんころメソッド();
