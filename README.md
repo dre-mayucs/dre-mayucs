@@ -3,24 +3,24 @@
 ![.NET](https://img.shields.io/badge/-.NET-blueviolet)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-%231e90ff)
-# どうも！キモオタです!  
+# **どうも！キモオタです!**  
 学生キモオタプログラマです('▽')  
 プログラミングという手段が好きでプログラミングが人生になっている人  
 化学も好きですが専門分野ではないので正確性は求めないでください(> <);  
 **急にGithubの更新が止まってる場合は大体ハードウェア作ってます  
 そっとしておくといつの間にか急に更新し始めます**
 
-## HP
+## **HP**
 HPリンクはこちらです！  
 ぜひぜひ見ていってくださいね(まぁリンク置いてあるだけですが...)  
 [わんころメソッド();公式HP](http://mayu-cs.xyz)  
 
-## Qiita
+## **Qiita**
 Qiitaでプログラミングに関する記事も書いてます！  
 良かったら見ていってくださいね！  
 [Qiita(まゆC#)](https://qiita.com/mayu___cs)  
 
-## Twitter
+## **Twitter**
 僕の人生  
 質問あればTwitterでしていただいても全然大丈夫です！  
 ツイ廃とかしたオタクなので投稿頻度はめっちゃ早いです()  
@@ -28,7 +28,7 @@ Qiitaでプログラミングに関する記事も書いてます！
 [Twitter(まゆC#)](https://twitter.com/mayu___cs)  
 [Twitter(まゆC#サブ)](https://twitter.com/mayu___cs_2)
 
-## Discord server 
+## **Discord server** 
 Discordサーバー内では雑談やプログラミング、化学や数学などの学術チャンネルもあります！  
 おそらくそのようなものが好きな人しかいないのでお話は合うのではないでしょうか?  
 質問チャンネルでプログラミングの質問もできます！  
