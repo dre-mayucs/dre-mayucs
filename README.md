@@ -18,21 +18,21 @@ HPリンクはこちらです！
 ## **Qiita**
 Qiitaでプログラミングに関する記事も書いてます！  
 良かったら見ていってくださいね！  
-[Qiita(まゆC#)](https://qiita.com/mayu___cs)  
+[Qiita](https://qiita.com/mayu___cs)  
 
 ## **Twitter**
 まゆしぃの人生  
 質問あればTwitterでしていただいても全然大丈夫です！  
 ツイ廃とかしたオタクなので投稿頻度はめっちゃ早いです()  
 サブ垢はそんなことないですが...w  
-[Twitter(まゆC#)](https://twitter.com/mayu___cs)  
-[Twitter(まゆC#サブ)](https://twitter.com/mayu___cs_2)
+[Twitter : main account](https://twitter.com/mayu___cs)  
+[Twitter : sub account](https://twitter.com/mayu___cs_2)
 
 ## **Discord server** 
 Discordサーバー内では雑談やプログラミング、化学や数学などの学術チャンネルもあります！  
 おそらくそのようなものが好きな人しかいないのでお話は合うのではないでしょうか?  
 質問チャンネルでプログラミングの質問もできます！  
-[Discord鯖](https://discord.com/invite/TZVTBkk)  
+[Discord community server](https://discord.com/invite/TZVTBkk)  
 
 ## Status  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayu-cs&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
