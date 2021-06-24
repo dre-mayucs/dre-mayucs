@@ -1,8 +1,17 @@
+![Lang](https://img.shields.io/badge/-Lang-gray?style=flat-square)
 ![C,C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet?style=flat-square)
-![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-%231e90ff?style=flat-square)
+![Arduino](https://img.shields.io/badge/-ArduinoLang-%231e90ff?style=flat-square)
+![XC8](https://img.shields.io/badge/-XC8-gray?style=flat-square)  
+
+![Tools](https://img.shields.io/badge/-Tools-gray?style=flat-square)
+![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square)
+![.d3d](https://img.shields.io/badge/-DirectX12-blueviolet?style=flat-square)
+![unity](https://img.shields.io/badge/-Unity-black?style=flat-square)
+![Arduino](https://img.shields.io/badge/-Arduino-%231e90ff?style=flat-square)
+![MPLAB](https://img.shields.io/badge/-MPLABX-gray?style=flat-square)  
 # **どうも！キモオタです!**  
 学生キモオタプログラマです('▽')  
 プログラミングという手段が好きでプログラミングが人生になっている人  
