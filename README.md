@@ -47,4 +47,5 @@ Discordサーバー内では雑談やプログラミング、化学や数学な�
 ## Status  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayu-cs&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayu-cs&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
-Ⓒ2021 わんころメソッド();
+***©2021 わんころメソッド();  
+©2021 wnkr();***
