@@ -1,8 +1,8 @@
-![C,C++](https://img.shields.io/badge/-C%2B%2B-blue)
-![C#](https://img.shields.io/badge/-C%23-blueviolet)
-![.NET](https://img.shields.io/badge/-.NET-blueviolet)
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-%231e90ff)
+![C,C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-blueviolet?style=flat-square)
+![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-%231e90ff?style=flat-square)
 # **どうも！キモオタです!**  
 学生キモオタプログラマです('▽')  
 プログラミングという手段が好きでプログラミングが人生になっている人  
