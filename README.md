@@ -23,19 +23,19 @@
   <img src="https://img.shields.io/badge/-MPLABX-gray?style=flat-square" align="center"/>
 </p>  
 
-## **HP**
+# **HP**
 HPリンクはこちらです！  
 ぜひぜひ見ていってくださいね(まぁリンク置いてあるだけですが...)  
 ***連絡先はメールも用意してありますが、Twitterでの連絡が最速です***  
 [わんころメソッド();公式HP](http://mayu-cs.xyz)  
 ![LOGO](https://user-images.githubusercontent.com/53264288/119266415-b025a100-bc25-11eb-92ca-67f1f3f5ea5e.png)
 
-## **Qiita**
+# **Qiita**
 Qiitaでプログラミングに関する記事も書いてます！  
 良かったら見ていってくださいね！  
 [Qiita](https://qiita.com/mayu___cs)  
 
-## **Twitter**
+# **Twitter**
 まゆしぃの人生  
 質問あればTwitterでしていただいても全然大丈夫です！  
 ツイ廃とかしたオタクなので投稿頻度はめっちゃ早いです()  
@@ -43,13 +43,13 @@ Qiitaでプログラミングに関する記事も書いてます！
 [Twitter : main account](https://twitter.com/mayu___cs)  
 [Twitter : sub account](https://twitter.com/mayu___cs_2)
 
-## **Discord server** 
+# **Discord server** 
 Discordサーバー内では雑談やプログラミング、化学や数学などの学術チャンネルもあります！  
 おそらくそのようなものが好きな人しかいないのでお話は合うのではないでしょうか?  
 質問チャンネルでプログラミングの質問もできます！  
 [Discord community server](https://discord.com/invite/TZVTBkk)  
 
-## Status  
+# Status  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayu-cs&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayu-cs&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
 ***©2021 わんころメソッド();  
