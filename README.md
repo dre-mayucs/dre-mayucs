@@ -2,7 +2,7 @@
 <img width="250px" height="250px" src="http://mayu-cs.xyz/img/git_img_res.png" align="center"/>  
 </p>  
 <h1 align="center">まゆC#と申します！</h1>
-<p align="center">学生プログラマです(*'▽')</p>
+<p align="center">ｷﾞﾘｷﾞﾘ学生プログラマです(*'▽')</p>
 <p align="center">プログラミングという手段が大大大大大好き！！！</p>
 <p align="center">化学も好きですが専門分野ではないので正確性は求めないでください(> <);</p>
 <p align="center">  
