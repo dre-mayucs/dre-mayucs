@@ -7,8 +7,8 @@
 <p align="center">化学も好きですが専門分野ではないので正確性は求めないでください(> <);</p>
 <p align="center">  
   <img src="https://img.shields.io/badge/-Lang-gray?style=flat-square" align="center"/>
-  <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square" align="center"/>
-  <img src="https://img.shields.io/badge/-C%23-blueviolet?style=flat-square" align="center"/>
+  <img src="https://img.shields.io/badge/-C%2B%2B-%231e90ff?style=flat-square" align="center"/>
+  <img src="https://img.shields.io/badge/-C%23%2FUnityC%23-blueviolet?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-CSS-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-ArduinoLang-%231e90ff?style=flat-square" align="center"/>
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-.NET-blueviolet?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-DirectX12-blueviolet?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-Unity-black?style=flat-square" align="center"/>
+  <img src="https://img.shields.io/badge/-CRIWARE-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-Arduino-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-MPLABX-gray?style=flat-square" align="center"/>
 </p>  
@@ -52,5 +53,8 @@ Discordサーバー内では雑談やプログラミング、化学や数学な�
 # Status  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayu-cs&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayu-cs&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
-***©2021 わんころメソッド();  
-©2021 wnkr();***
+
+## 
+<p align="center">
+©2021 wnkr(); ©2021 わんころメソッド();
+</p>
