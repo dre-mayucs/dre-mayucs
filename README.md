@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-DirectX12-blueviolet?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-Unity-black?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-CRIWARE-%231e90ff?style=flat-square" align="center"/>
+  <img src="https://img.shields.io/badge/-Live2D-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-Arduino-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-MPLABX-gray?style=flat-square" align="center"/>
 </p>  
