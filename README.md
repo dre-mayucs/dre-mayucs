@@ -5,6 +5,7 @@
 <p align="center">ゲームプログラマです(*'▽')</p>
 <p align="center">プログラミングという手段が大大大大大好き！！！</p>
 <p align="center">化学も好きですが専門分野ではないので正確性は求めないでください(> <);</p>
+<p align="center">このアカウントはまゆC#の個人・同人用アカウントです</p>
 <p align="center">  
   <img src="https://img.shields.io/badge/-Lang-gray?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-C%2B%2B-%231e90ff?style=flat-square" align="center"/>
