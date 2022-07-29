@@ -33,7 +33,7 @@ HPリンクはこちらです！
 ![LOGO](https://user-images.githubusercontent.com/53264288/119266415-b025a100-bc25-11eb-92ca-67f1f3f5ea5e.png)
 
 # **Qiita**
-Qiitaでプログラミングに関する記事も書いてます！  
+Qiitaでプログラミングに関する記事も書いてます！ (更新頻度低いのを改善したい) 
 良かったら見ていってくださいね！  
 [Qiita](https://qiita.com/mayu___cs)  
 
