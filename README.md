@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-CSS-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-ArduinoLang-%231e90ff?style=flat-square" align="center"/>
+  <img src="https://img.shields.io/badge/-Solidity-gray?style=flat-square" align="center"/>  
   <img src="https://img.shields.io/badge/-XC8-gray?style=flat-square" align="center"/>  
 </p>
 <p align="center">
@@ -23,6 +24,7 @@
   <img src="https://img.shields.io/badge/-CRIWARE-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-Live2D-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-Arduino-%231e90ff?style=flat-square" align="center"/>
+  <img src="https://img.shields.io/badge/-Web3-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-MPLABX-gray?style=flat-square" align="center"/>
 </p>  
 
