@@ -7,8 +7,8 @@
 <p align="center">化学も好きですが専門分野ではないので正確性は求めないでください(> <);</p>
 <p align="center">  
   <img src="https://img.shields.io/badge/-Lang-gray?style=flat-square" align="center"/>
-  <img src="https://img.shields.io/badge/-C%2B%2B-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-C%23%2FUnityC%23-blueviolet?style=flat-square" align="center"/>
+  <img src="https://img.shields.io/badge/-C%2B%2B-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-CSS-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-ArduinoLang-%231e90ff?style=flat-square" align="center"/>
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-.NET-blueviolet?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-DirectX12-blueviolet?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-Unity-black?style=flat-square" align="center"/>
+  <img src="https://img.shields.io/badge/-Cocos2d--x-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-CRIWARE-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-Live2D-%231e90ff?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-Arduino-%231e90ff?style=flat-square" align="center"/>
