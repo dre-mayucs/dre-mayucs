@@ -1,5 +1,5 @@
 <p align="center">
-<img width="250px" height="250px" src="http://mayu-cs.xyz/img/git_img_res.png" align="center"/>  
+<img width="250px" height="250px" src="https://wnnkr.tech/img/git_img_res.png" align="center"/>  
 </p>  
 <h1 align="center">まゆC#と申します！</h1>
 <p align="center">ゲームプログラマです(*'▽')</p>
