@@ -30,10 +30,14 @@
 
 # **HP**
 HPリンクはこちらです！  
-ぜひぜひ見ていってくださいね(まぁリンク置いてあるだけですが...)  
+画像クリックしてぜひぜひ見ていってくださいね(まぁリンク置いてあるだけですが...)  
 ***連絡先はメールも用意してありますが、Twitterでの連絡が最速です***  
 [わんころメソッド();公式HP](http://mayu-cs.xyz)  
-![LOGO](https://user-images.githubusercontent.com/53264288/119266415-b025a100-bc25-11eb-92ca-67f1f3f5ea5e.png)
+<div align="center">
+  <a href="https://wnkr.tech">
+    <img src="https://user-images.githubusercontent.com/53264288/119266415-b025a100-bc25-11eb-92ca-67f1f3f5ea5e.png" width="50%">
+  </a>
+</div>
 
 # **Qiita**
 Qiitaでプログラミングに関する記事も書いてます！ (更新頻度低いのを改善したい) 
@@ -57,19 +61,15 @@ Discordサーバー内では雑談やプログラミング、化学や数学な�
 # Status
 <h5>お仕事アカウント</h5>
 <div align="center">
-  <img src="https://grass-graph.appspot.com/images/dre-mayucs.png" align="center">
+  
 </div>
-
 <h5>個人アカウント</h5>
 <div align="center">
-  <img src="https://grass-graph.appspot.com/images/mayu-cs.png" align="center">
+  <img src="https://github.com/mayu-cs/mayu-cs/blob/master/profile-3d-contrib/profile-night-view.svg" width="70%"><br>
+  <!--
+    一時的に無効化してます...
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayu-cs&layout=compact&theme=react"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=mayu-cs&show_icons=true&count_private=true&theme=react"><br>
+  --!>
 </div>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayu-cs&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayu-cs&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
-
-## 
-<p align="center">
-©2022 wnkr(); ©2022 わんころメソッド();
-</p>
