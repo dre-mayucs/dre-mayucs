@@ -54,7 +54,18 @@ Discordサーバー内では雑談やプログラミング、化学や数学な�
 質問チャンネルでプログラミングの質問もできます！  
 [Discord community server](https://discord.com/invite/TZVTBkk)  
 
-# Status  
+# Status
+<h5>お仕事アカウント</h5>
+<div align="center">
+  <img src="https://grass-graph.appspot.com/images/dre-mayucs.png" align="center">
+</div>
+
+<h5>個人アカウント</h5>
+<div align="center">
+  <img src="https://grass-graph.appspot.com/images/mayu-cs.png" align="center">
+</div>
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayu-cs&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayu-cs&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
 
