@@ -59,9 +59,11 @@ Discordサーバー内では雑談やプログラミング、化学や数学な�
 [Discord community server](https://discord.com/invite/TZVTBkk)  
 
 # Status
-<h5>お仕事アカウント</h5>
+<h5>お仕事アカウント<br>
+※権限の関係で、言語など一部情報が隠れています(今後も公開するつもりはないです
+</h5>
 <div align="center">
-  
+  <img src="https://github.com/dre-mayucs/dre-mayucs/blob/main/profile-3d-contrib/profile-night-view.svg" width="70%"><br>
 </div>
 <h5>個人アカウント</h5>
 <div align="center">
