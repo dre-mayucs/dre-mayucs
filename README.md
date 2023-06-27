@@ -31,8 +31,8 @@
 # **HP**
 HPリンクはこちらです！  
 画像クリックしてぜひぜひ見ていってくださいね(まぁリンク置いてあるだけですが...)  
-***連絡先はメールも用意してありますが、Twitterでの連絡が最速です***  
-[わんころメソッド();公式HP](http://mayu-cs.xyz)  
+お問い合わせはホームページのContactページよりお願いします
+[わんころメソッド();公式HP](https://wnkr.tech)  
 <div align="center">
   <a href="https://wnkr.tech">
     <img src="https://user-images.githubusercontent.com/53264288/119266415-b025a100-bc25-11eb-92ca-67f1f3f5ea5e.png" width="50%">
