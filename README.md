@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-MPLABX-gray?style=flat-square" align="center"/>
 </p>  
 
-# **HP**
+# **HP(個人)**
 HPリンクはこちらです！  
 画像クリックしてぜひぜひ見ていってくださいね(まぁリンク置いてあるだけですが...)  
 お問い合わせはホームページのContactページよりお願いします
@@ -39,12 +39,12 @@ HPリンクはこちらです！
   </a>
 </div>
 
-# **Qiita**
+# **Qiita(個人)**
 Qiitaでプログラミングに関する記事も書いてます！ (更新頻度低いのを改善したい) 
 良かったら見ていってくださいね！  
 [Qiita](https://qiita.com/mayu___cs)  
 
-# **Twitter**
+# **Twitter(個人)**
 まゆしぃの人生  
 質問あればTwitterでしていただいても全然大丈夫です！  
 ツイ廃とかしたオタクなので投稿頻度はめっちゃ早いです()  
@@ -52,26 +52,8 @@ Qiitaでプログラミングに関する記事も書いてます！ (更新頻�
 [Twitter : main account](https://twitter.com/mayu___cs)  
 [Twitter : sub account](https://twitter.com/mayu___cs_2)
 
-# **Discord server** 
+# **Discord server(個人)** 
 Discordサーバー内では雑談やプログラミング、化学や数学などの学術チャンネルもあります！  
 おそらくそのようなものが好きな人しかいないのでお話は合うのではないでしょうか?  
 質問チャンネルでプログラミングの質問もできます！  
 [Discord community server](https://discord.com/invite/TZVTBkk)  
-
-# Status
-<h5>お仕事アカウント<br>
-※権限の関係で、言語など一部情報が隠れています(今後も公開するつもりはないです
-</h5>
-<div align="center">
-  <img src="https://github.com/dre-mayucs/dre-mayucs/blob/main/profile-3d-contrib/profile-night-view.svg" width="70%"><br>
-</div>
-<h5>個人アカウント</h5>
-<div align="center">
-  <img src="https://github.com/mayu-cs/mayu-cs/blob/master/profile-3d-contrib/profile-night-view.svg" width="70%"><br>
-  <!--
-    一時的に無効化してます...
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayu-cs&layout=compact&theme=react"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=mayu-cs&show_icons=true&count_private=true&theme=react"><br>
-  --!>
-</div>
-<br>
