@@ -3,7 +3,7 @@
 </p>  
 <h1 align="center">まゆC#と申します！</h1>
 <p align="center">会社でゲームプログラマというのをやってます(*'▽')</p>
-<p align="center">プログラミングという手段が大大大大大好き！！！</p>
+<p align="center">ものづくりが好きです！</p>
 <p align="center">  
   <img src="https://img.shields.io/badge/-Lang-gray?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-C%23%2FUnityC%23-blueviolet?style=flat-square" align="center"/>
