@@ -2,9 +2,8 @@
 <img width="250px" height="250px" src="https://wnkr.tech/img/git_img_res.png" align="center"/>  
 </p>  
 <h1 align="center">まゆC#と申します！</h1>
-<p align="center">ゲームプログラマです(*'▽')</p>
+<p align="center">会社でゲームプログラマというのをやってます(*'▽')</p>
 <p align="center">プログラミングという手段が大大大大大好き！！！</p>
-<p align="center">化学も好きですが専門分野ではないので正確性は求めないでください(> <);</p>
 <p align="center">  
   <img src="https://img.shields.io/badge/-Lang-gray?style=flat-square" align="center"/>
   <img src="https://img.shields.io/badge/-C%23%2FUnityC%23-blueviolet?style=flat-square" align="center"/>
@@ -47,8 +46,6 @@ Qiitaでプログラミングに関する記事も書いてます！ (更新頻�
 # **Twitter(個人)**
 まゆしぃの人生  
 質問あればTwitterでしていただいても全然大丈夫です！  
-ツイ廃とかしたオタクなので投稿頻度はめっちゃ早いです()  
-サブ垢はそんなことないですが...w  
 [Twitter : main account](https://twitter.com/mayu___cs)  
 [Twitter : sub account](https://twitter.com/mayu___cs_2)
 
